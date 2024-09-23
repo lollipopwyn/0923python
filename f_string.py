@@ -1,8 +1,8 @@
 # f-string 포멧팅
 
 # 1. + 연산자를 사용
-name = "마샬"
-friend = "전종서"
+name = "조이"
+friend = "아이린"
 age = 20
 # print("제 이름은 " + name + "이고, 나이는 " + str(age) + "살 입니다")
 
